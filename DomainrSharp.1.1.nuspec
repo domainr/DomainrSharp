@@ -8,8 +8,8 @@
         <owners>Scott Lovegrove</owners>
         <projectUrl>https://github.com/ScottIsAFool/DomainrSharp</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>A .NET wrapper for the domai.nr API that lets you search for fun and different domain names based on a search word</description>
-        <summary>A .NET wrapper for the domai.nr API</summary>
+        <description>A .NET wrapper for the Domainr API that lets you search for fun and different domain names based on a search word</description>
+        <summary>A .NET wrapper for the Domainr API</summary>
         <releaseNotes>1.1 includes new method calls for .NET 4.5 and WinRT versions to allow async/await pattern.</releaseNotes>
         <copyright>2012 ScottIsAFool</copyright>
         <language>en-GB</language>

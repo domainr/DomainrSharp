@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- 
+<!--
 This tokenized .nuspec manifest file is targeting the latest NuGet namespace,
 which ensures you can benefit from the latest packaging features.
 
@@ -20,7 +20,7 @@ using this tokenized nuspec file.
     <id>$id$</id>
     <title />
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A .NET wrapper for the domai.nr API that lets you search for fun and different domain names based on a search word</description>
+    <description>A .NET wrapper for the Domainr API that lets you search for fun and different domain names based on a search word</description>
     <tags>domainr domain tld</tags>
   </metadata>
   <files />
