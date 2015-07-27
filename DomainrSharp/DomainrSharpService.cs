@@ -9,8 +9,8 @@ namespace DomainrSharp
     {
         private HttpClient HttpClient { get; set; }
 
-        private const string QueryUrl = "https://api.domainr.com/v1/search?client_id=domainrsharp_client&q={0}";
-        private const string InfoUrl = "https://api.domainr.com/v1/info?client_id=domainrsharp_client&q={0}";
+        private const string QueryUrl = "https://api.domainr.com/v1/search?client_id={your-mashape-key}&q={0}";
+        private const string InfoUrl = "https://api.domainr.com/v1/info?client_id={your-mashape-key}&q={0}";
 
         public string ClientId { get; set; }
 
